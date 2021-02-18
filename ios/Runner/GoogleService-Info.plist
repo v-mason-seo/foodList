@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39780335084-akke2p6d2n1cnsn4v7e39u517rhgn2cq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39780335084-akke2p6d2n1cnsn4v7e39u517rhgn2cq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9avjAvDHBX6Sm80E9fQy_cOabmnUlrWs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39780335084</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foodlist.hdhardwork</string>
+	<key>PROJECT_ID</key>
+	<string>foodnote-dfac5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodnote-dfac5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39780335084:ios:419ec3dfc3742420d954c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodnote-dfac5.firebaseio.com</string>
+</dict>
+</plist>

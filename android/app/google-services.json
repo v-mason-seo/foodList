@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "412636634198",
+    "firebase_url": "https://hdfoodlistandroid.firebaseio.com",
+    "project_id": "hdfoodlistandroid",
+    "storage_bucket": "hdfoodlistandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412636634198:android:4cb6d224431c945d",
+        "android_client_info": {
+          "package_name": "com.yunziri.hdfoodlist_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412636634198-n4drcbquc90be8di9ccqv24a3a4d5bou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yunziri.hdfoodlist_android",
+            "certificate_hash": "32202b5821f79a595a406cc25c5e58447544c1ea"
+          }
+        },
+        {
+          "client_id": "412636634198-tktrecek720dgqrbf1g98bl7h05hrkl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMaACk8M8cMvz0HnohlpT1ga-iTUL4kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412636634198-tktrecek720dgqrbf1g98bl7h05hrkl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6608605689570528~9896467940"
+    }
+  ],
+  "configuration_version": "1"
+}
